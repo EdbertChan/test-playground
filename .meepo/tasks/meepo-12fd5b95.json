@@ -1,0 +1,13 @@
+{
+  "id": "meepo-12fd5b95",
+  "summary": "Open GitHub PR to merge feature/hello-world into main",
+  "problem": "Changes are on feature branch but not merged",
+  "approach": "Use gh CLI or GitHub API to create PR",
+  "testPlan": "1. PR exists on GitHub\n2. PR title and description are meaningful\n",
+  "reproCommand": "gh pr list --state open",
+  "status": "completed",
+  "branch": "feature/hello-world-1768074449507",
+  "parentTask": "meepo-17b76364",
+  "createdAt": "2026-01-10T19:48:57.106Z",
+  "completedAt": "2026-01-10T19:48:57.106Z"
+}

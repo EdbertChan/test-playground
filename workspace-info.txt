@@ -1,0 +1,3 @@
+Workspace: /Users/edbert/Github/invoker/meepo-orchestrator/.repos/task-parent-local-task-1770613137954
+Branch: test/local-executor-20260208-205857/parent-local-task
+Timestamp: Sun Feb  8 20:59:03 PST 2026

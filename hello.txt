@@ -1,1 +1,6 @@
-Hello from Claude (Local Executor)
+Dear Colleague,
+
+I hope this message finds you well. I am writing to extend my warmest professional greetings and to express my sincere appreciation for the opportunity to collaborate with you.
+
+Best regards,
+Claude

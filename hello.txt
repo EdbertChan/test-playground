@@ -1,1 +1,6 @@
-Hello from Claude (Local Executor)
+Hey there! 👋
+
+Hope you're having an awesome day! Just dropping by to say hi and that I'm here to help with whatever you need.
+
+Cheers,
+Claude

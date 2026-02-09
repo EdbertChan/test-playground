@@ -1,0 +1,3 @@
+Hello from local-modify-files task!
+This file was created by local task
+Working directory: /Users/edbert/Github/invoker/meepo-orchestrator/.repos/task-parent-local-task-1770613137954

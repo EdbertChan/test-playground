@@ -1,0 +1,14 @@
+{
+  "type": "experiment",
+  "description": "Choose between formal or casual greeting style",
+  "variants": [
+    {
+      "id": "formal",
+      "command": "set -e; echo 'Good day, esteemed user. Welcome to our application.' > hello.txt; git add hello.txt; git commit -m 'Formal greeting experiment'; echo 'Current branch:'; git branch --show-current; echo 'hello.txt:'; cat hello.txt"
+    },
+    {
+      "id": "casual",
+      "command": "set -e; echo 'Hey there! Welcome to the app!' > hello.txt; git add hello.txt; git commit -m 'Casual greeting experiment'; echo 'Current branch:'; git branch --show-current; echo 'hello.txt:'; cat hello.txt"
+    }
+  ]
+}

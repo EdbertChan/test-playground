@@ -1,0 +1,3 @@
+Hello from local-modify-files task!
+This file was created by local task
+Working directory: /private/tmp/meepo-e2e-final/repos/task-parent-local-task-1771786337062
